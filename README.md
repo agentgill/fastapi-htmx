@@ -1,4 +1,4 @@
-# FastAPI with HTML
+# FastAPI with HTMX
 
 Welcome to the FastAPI with HTMX!
 
